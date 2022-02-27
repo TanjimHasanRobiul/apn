@@ -1,0 +1,70 @@
+.country{
+    width: 75%;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: aquamarine;
+    font-size: 30px;
+    text-align: center;
+    box-shadow: 10px 10px greenyellow ;
+
+  
+}
+
+.head{
+    margin: 10px;
+    font-size: 60px;
+    color:coral;
+    text-align: center;
+}
+
+body{
+    background-color: hsla(180, 66%, 77%, 0.616);
+}
+
+span{
+    margin: auto;
+  
+    border-radius: 10px;
+    
+}
+.wld{
+    display: flex;
+    font-size: 60px;
+   
+}
+.as{
+    width: 190px;
+    height: 90px;
+    background-color:pink;
+    text-align: center;
+}
+.af{
+   
+    width: 190px;
+    height: 90px;
+    background-color: pink;
+    text-align: center;
+}
+.am{
+    
+    width: 250px;
+    height: 90px;
+    background-color: pink;
+    text-align: center;
+}
+.oc{
+   
+    width: 220px;
+    height: 90px;
+    background-color: pink;
+    text-align: center;
+}
+.ep{
+    
+    width: 200px;
+    height: 90px;
+    background-color: pink;
+    text-align: center;
+}
